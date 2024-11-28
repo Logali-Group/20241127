@@ -1,0 +1,31 @@
+ID;subCategory;description;category_ID
+ab796855-f243-4d02-8754-c13caf852e8a;Desktop computers;Desktop PCs;123e4567-e89b-12d3-a456-426614174000
+b2c726dc-1659-420e-83f5-c128f53a60bf;Laptops;Laptops and ultrabooks;123e4567-e89b-12d3-a456-426614174000
+11dc3830-2cfc-47fb-b300-96f863455f14;Servers;Network and data center equipment;123e4567-e89b-12d3-a456-426614174000
+9cac41cb-a5ef-49de-9b2e-9ba23f536645;Smartphones;Smart phones;456e789b-12d3-a456-4266-141740001234
+b1aee2cb-54f6-40bc-b1d8-f23b23d5df46;Tablets;Tablet computers;456e789b-12d3-a456-4266-141740001234
+80f55cec-1373-43fa-8f41-fb27263552d4;Mobile accessories;Cases, chargers, headphones;456e789b-12d3-a456-4266-141740001234
+23456789-0123-4567-8901-2345abcdef06;Smart TVs;Internet-connected televisions;789b12d3-a456-4266-1417-400012345678
+236ebd0b-7dd1-46cc-9321-029077df578d;Video games;Gaming consoles and video games;789b12d3-a456-4266-1417-400012345678
+45678901-2345-6789-0123-4567abcdef08;Audio;Speakers, headphones, and sound systems;789b12d3-a456-4266-1417-400012345678
+8ba4284c-e2a0-4171-8d1d-0f5fe5a8c69d;Operating Systems;Windows, macOS, Linux;abcdef12-3456-7890-1234-56789abcdef0
+15b47f1f-839d-40e7-b192-3eb105f8e5be;Applications;Productivity, multimedia, and games;abcdef12-3456-7890-1234-56789abcdef0
+4347b22c-a606-46bf-84ac-98cfaace06cd;Development Tools;Programming languages, IDEs, and frameworks;abcdef12-3456-7890-1234-56789abcdef0
+bb4c0c00-3d62-4bd6-a7ef-ceb1c0a52f61;Network Devices;Routers, switches, modems;5bef1a88-d3a9-41aa-aa22-7a1d43399b47
+ed09f680-a50e-4a4e-a7fa-260c4229dcff;Network Security;Firewalls, intrusion detection systems;5bef1a88-d3a9-41aa-aa22-7a1d43399b47
+e68caac8-5287-41b3-b510-e129dd9f4255;Network Protocols;TCP/IP, HTTP, FTP;5bef1a88-d3a9-41aa-aa22-7a1d43399b47
+55e13d22-2537-456f-bdc2-934b06232816;Endpoint Security;Antivirus, antimalware, intrusion detection systems;26a142df-74a2-4042-bf45-5c60987236f6
+da8524ce-6a91-4038-8a28-95112d161807;Network Security;Firewalls, VPNs, intrusion prevention systems;26a142df-74a2-4042-bf45-5c60987236f6
+f6f1b8cf-c746-461e-ae20-92c95b98bfb4;Data Security;Encryption, data loss prevention, backup and recovery;26a142df-74a2-4042-bf45-5c60987236f6
+7679e4f0-4482-4504-bde3-63581e6361db;3D Printers;Hardware for 3D printing;996a0350-f431-42b4-8ec1-710361cb655d
+bdf67d12-4f4d-4204-be20-522e4048aade;3D Filaments;Materials for 3D printing;996a0350-f431-42b4-8ec1-710361cb655d
+676e2920-847d-490b-90cd-7217e688542d;3D Design Software;Software for 3D design;996a0350-f431-42b4-8ec1-710361cb655d
+93277320-e686-4e01-9913-641eeba56570;Industrial Robots;Robots for manufacturing and assembly;554d401b-971e-4ce4-b5c5-13e387ce4b65
+99f7e691-0f9e-4b4c-adba-4c41eb98311f;Drones;Unmanned aerial vehicles for various applications;554d401b-971e-4ce4-b5c5-13e387ce4b65
+3767abdb-97ba-4f8b-a5ab-106b95ea5885;Robotics Kits;DIY kits for building and programming robots;554d401b-971e-4ce4-b5c5-13e387ce4b65
+bfcb6859-df35-4879-b2ce-53093db975a5;Sensors;Temperature, humidity, motion, light, etc.;7d32a75f-20c8-45ac-b748-6e4c565f384d
+49d3837b-3f33-41d7-8cb0-73b64ba77a4f;Actuators;Motors, relays, valves, LEDs, etc.;7d32a75f-20c8-45ac-b748-6e4c565f384d
+6068a901-4570-4e54-a483-a9c7513d2fff;IoT Platforms;Cloud-based platforms for data collection, analysis, and visualization;7d32a75f-20c8-45ac-b748-6e4c565f384d
+a772a630-abb0-4a0d-ba48-1d2e0aa76134;VR Headsets;Head-mounted displays for virtual reality;23456789-0123-4567-8901-2345abcdef06
+bd46dd62-ddc7-4663-93e5-7b6eebda2fdd;AR Glasses;Smart glasses for augmented reality;23456789-0123-4567-8901-2345abcdef06
+7960411c-835c-4b2c-a3ef-334707454b31;VR/AR Development Tools;Software and tools for developing VR/AR applications;23456789-0123-4567-8901-2345abcdef06
