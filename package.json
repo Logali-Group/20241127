@@ -2,7 +2,7 @@
   "name": "webinar",
   "version": "1.0.0",
   "description": "Consumo de servicios externos en CAP",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/Logali-Group/20241127.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
